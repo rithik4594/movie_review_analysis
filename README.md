@@ -195,7 +195,7 @@ Karpagam Institute of Technology
 
 Email: [rithik4594@gmail.com](mailto:rithik4594@gmail.com)
 
-GitHub: https://github.com/yourusername
+GitHub: [https://github.com/rithik4594]
 
 ---
 
