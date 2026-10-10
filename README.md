@@ -172,17 +172,6 @@ http://localhost:8501
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-* Home Page
-* Movie Search Results
-* Review Sentiment Analysis
-* Recommendation Section
-
----
-
 ## 📈 Learning Outcomes
 
 This project demonstrates:
